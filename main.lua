@@ -145,7 +145,7 @@ local function loadScript()
     TextLabel_5.Position = UDim2.new(0.295315683, 0, 0.856812954, 0)
     TextLabel_5.Size = UDim2.new(0, 200, 0, 50)
     TextLabel_5.Font = Enum.Font.SourceSans
-    TextLabel_5.Text = "Thank you for using Zypherion<3"
+    TextLabel_5.Text = "Thank you for using Zodiacz<3"
     TextLabel_5.TextColor3 = Color3.fromRGB(217, 217, 217)
     TextLabel_5.TextSize = 14.000
     
@@ -157,7 +157,7 @@ local function loadScript()
     TextLabel_6.Size = UDim2.new(0, 200, 0, 50)
     TextLabel_6.Visible = false
     TextLabel_6.Font = Enum.Font.SourceSans
-    TextLabel_6.Text = "Made by NervigeMuecke"
+    TextLabel_6.Text = "Made by Zodiacz"
     TextLabel_6.TextColor3 = Color3.fromRGB(217, 217, 217)
     TextLabel_6.TextSize = 14.000
 
